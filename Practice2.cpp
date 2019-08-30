@@ -18,7 +18,7 @@ int main()
 		}
 		if (i == 1)
 			cout << " IS PRIME!" << endl;
-		
+		 
 	} while (value != 0);
 
 	return 0;
